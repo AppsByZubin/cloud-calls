@@ -1,4 +1,5 @@
 package main
+package main
 
 import (
 	"fmt"
@@ -7,4 +8,6 @@ import (
 func main() {
 
 	fmt.Println("SA")
+	fmt.Println("SA1")
+	fmt.Println("SA2")
 }
