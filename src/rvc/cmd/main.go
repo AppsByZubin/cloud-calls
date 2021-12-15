@@ -10,4 +10,8 @@ func main() {
 	fmt.Println("RVC3")
 	fmt.Println("RVC4")
 	fmt.Println("RVC5")
+
+	fmt.Println("RVC6")
+	fmt.Println("RVC7")
+	fmt.Println("RVC8")
 }
