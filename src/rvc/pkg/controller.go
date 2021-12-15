@@ -17,4 +17,9 @@ func main() {
 	fmt.Println("PA9 Controller")
 	fmt.Println("PA10 Controller")
 	fmt.Println("PA11 Controller")
+
+	fmt.Println("PA12 Controller")
+	fmt.Println("PA13 Controller")
+	fmt.Println("PA14 Controller")
+	fmt.Println("PA15 Controller")
 }

@@ -14,4 +14,8 @@ func main() {
 	fmt.Println("RVC6")
 	fmt.Println("RVC7")
 	fmt.Println("RVC8")
+
+	fmt.Println("RVC9")
+	fmt.Println("RVC10")
+	fmt.Println("RVC11")
 }
